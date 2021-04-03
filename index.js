@@ -336,7 +336,7 @@ function getHTML(data){
       console.log(`
       <div id="artist">
       <div class="image">
-          <img src="${x.imgsrc}"/>
+          <img src="${x.imgsource}"/>
       </div>
       <div class = "name">
          <a href="${x.wikipedia}"> Vincent Van Gogh</a>
